@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:22d3ee&height=220&section=header&text=SHAHIDUL%20ISLAM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CSE%20Student&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=First-year+CSE+student+at+BAIUST;Competitive+programming+in+C%2B%2B;Building+useful+things+for+the+web;Always+learning.+Always+competing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=First-year+CSE+student+at+BAIUST;Competitive+Programmer;Building+useful+things+for+the+web;Always+learning.+Always+competing.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_Now-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahidulinit.github.io/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidulinit@gmail.com)
@@ -11,41 +11,37 @@
 
 </div>
 
-## `> whoami`
+## `>ABOUT ME`
 
-```yaml
+```yml
 name: Shahidul Islam
 role: Competitive Programmer | CSE Undergraduate
 location: Chauddagram, Cumilla, Bangladesh
 education:
   degree: B.Sc. in Computer Science and Engineering
   university: Bangladesh Army International University of Science and Technology
-  status: Level 1 Term 2
+  status: Level 1 Term II
 organization: "@rawrackers"
 focus:
   - Data Structures & Algorithms
-  - C / C++ / Java
-  - Front-end Web Development
+  - C, C++
+  - Front-end Web Development using AI prompting
   - Problem solving and hackathons
 currently: "Sharpening implementation speed and algorithmic thinking"
 ```
 
-I enjoy turning algorithms into working solutions and ideas into interactive web experiences. My interests include competitive programming, CSE fundamentals, and building small tools that solve real student-life problems.
+I enjoy solving complex programming problems easy way using optimised algorithms, and solving real life problems into working solutions and ideas into interactive web experiences. My interests include competitive programming, CSE fundamentals, and building usefull tools that solve real life problems.
 
 ---
 
-## `> skill --list --verbose`
+## `>SKILL'S`
 
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -54,15 +50,14 @@ I enjoy turning algorithms into working solutions and ideas into interactive web
 
 | Area | Working knowledge |
 |---|---|
-| Algorithms | Complexity, greedy methods, brute force, basic number theory |
-| Data structures | Arrays, strings, linked structures, stacks, queues, trees |
+| Algorithms | Complexity, greedy methods, brute force, |
+| Data structures | Arrays, strings, vector |
 | Competitive programming | C++ implementation, debugging, contest participation |
-| Web development | Responsive HTML/CSS, JavaScript, React, Vite, Tailwind CSS |
-| Tools | GCC, Git, GitHub, VS Code, browser developer tools |
+| Tools | GCC, Git, GitHub, VS Code, Android Studio, InteliJ IDEA |
 
 ---
 
-## `> competitive --status`
+## `>COMPETITIVE PROGRAMMING`
 
 <div align="center">
 
@@ -87,13 +82,11 @@ I enjoy turning algorithms into working solutions and ideas into interactive web
 
 ---
 
-## `> projects --featured`
+## `>PROJECT'S`
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Anti-Kuddus Protocol**](https://github.com/shahidulinit/Anti-KuddusProtocol) | Playful classroom dashboard with reports, seating, syllabus tools, ledger, and browser-persisted state. Built for the BAIUST CSE Spring Fest Hackathon 2026. | React · Vite · Tailwind · Recharts |
-| [**Personal Portfolio**](https://shahidulinit.github.io/) | Responsive developer portfolio with live Codeforces activity and project showcase. | HTML · CSS · JavaScript |
-| [**SPL CT 1 Solutions**](https://github.com/shahidulinit/cse-level-1-term-2-spl-ct-1) | Structured C practice solutions covering arithmetic, operators, ternary expressions, bitwise operations, and casting. | C · GCC |
+| [**Anti-Kuddus Protocol**](https://github.com/shahidulinit/Anti-KuddusProtocol) | Playful classroom dashboard with reports, seating, syllabus tools, ledger, and browser-persisted state. Built for the BAIUST CSE Spring Fest 2026 Hackathon. | AI prompting · React · Vite · Tailwind · Recharts |
 | [**Guess The Number**](https://github.com/shahidulinit/GuessTheNumber) | My first Java project: a CLI guessing game with high/low feedback. | Java |
 
 ### Anti-Kuddus Protocol
@@ -101,32 +94,26 @@ I enjoy turning algorithms into working solutions and ideas into interactive web
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Open_App-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://shahidulinit.github.io/Anti-KuddusProtocol/)
 [![Source](https://img.shields.io/badge/SOURCE-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahidulinit/Anti-KuddusProtocol)
 
-### Personal Portfolio
-
-[![Portfolio](https://img.shields.io/badge/WEBSITE-Explore-0F766E?style=flat-square&logo=google-chrome&logoColor=white)](https://shahidulinit.github.io/)
-[![Source](https://img.shields.io/badge/SOURCE-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahidulinit/shahidulinit.github.io)
-
 ---
 
-## `> achievements --show`
+## `>ACHIEVEMENT'S/MILESTONES`
 
-- **BAIUST CSE Spring Fest '26 Hackathon** — 24-hour university hackathon
-- **Anti-Kuddus Protocol** — built and showcased a full front-end React/Vite prototype
-- **CSE academic solutions** — documented C practice problems for Level 1 Term 2
-- **First Java project** — completed an interactive CLI number game
+- **Participant - ICPC Dhaka Regional Preliminary 2026** — 4-hour National programming contest
+- **250+ Problem solved** — Across CodeForces, AtCoder, CodeChef
+- **Top 6 - BAIUST CSE Spring Fest 26 Hackathon** — 24-hour university hackathon junior catagory
 
 <details>
 <summary><b>Education</b></summary>
 
 **Bachelor of Science — Computer Science and Engineering**  
 Bangladesh Army International University of Science and Technology  
-Current stage: Level 1 Term 2
+Current stage: Level 1 Term II
 
 </details>
 
 ---
 
-## `> github --analytics`
+## `>GitHub Activity`
 
 <div align="center">
 
@@ -147,7 +134,7 @@ Current stage: Level 1 Term 2
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shahidulinit&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS)](https://github.com/shahidulinit)
 
-**Open to hackathons, student projects, and learning opportunities.**
+**Open to hackathons, web projects, and learning opportunities.**
 
 </div>
 
