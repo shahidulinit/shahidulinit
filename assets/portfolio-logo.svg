@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Shahidul Islam portfolio mark</title>
+  <desc id="desc">A royal navy and gold monogram with a crown</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF1A8"/>
+      <stop offset="0.5" stop-color="#D6B64A"/>
+      <stop offset="1" stop-color="#9A7718"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B2E5B"/>
+      <stop offset="1" stop-color="#070B18"/>
+    </linearGradient>
+  </defs>
+  <path d="M256 22 449 133v246L256 490 63 379V133z" fill="url(#navy)" stroke="url(#gold)" stroke-width="18"/>
+  <path d="M256 48 427 147v218L256 464 85 365V147z" fill="none" stroke="#F8E7A1" stroke-width="3" opacity=".55"/>
+  <path d="m159 148 30 58 67-55 67 55 30-58-14 102H173z" fill="url(#gold)" stroke="#FFF1A8" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="159" cy="139" r="10" fill="#FFF1A8"/>
+  <circle cx="256" cy="139" r="10" fill="#FFF1A8"/>
+  <circle cx="353" cy="139" r="10" fill="#FFF1A8"/>
+  <text x="256" y="365" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="145" font-weight="700" letter-spacing="-18" fill="url(#gold)">SI</text>
+  <path d="M174 389h164" stroke="url(#gold)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="256" cy="389" r="9" fill="#FFF1A8"/>
+</svg>

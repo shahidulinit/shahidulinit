@@ -1,109 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f766e,100:22d3ee&height=220&section=header&text=SHAHIDUL%20ISLAM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CSE%20Student&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="./assets/portfolio-logo.svg" width="112" alt="Shahidul Islam royal portfolio mark" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=First-year+CSE+student+at+BAIUST;Competitive+Programmer;Building+useful+things+for+the+web;Always+learning.+Always+competing.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B18,45:121D3A,100:C9A227&height=230&section=header&text=SHAHIDUL%20ISLAM&fontSize=58&fontColor=F8E7A1&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CSE%20Undergraduate&descAlignY=61&descAlign=50&descSize=18&descColor=D8C27A" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit_Now-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahidulinit.github.io/)
-[![Email](https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidulinit@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=D6B64A&center=true&vCenter=true&width=760&lines=Royal+Mindset.+Engineer%27s+Precision.;Solving+algorithms+before+breakfast.;Building+interactive+web+experiences.;Competing.+Learning.+Leveling+up.)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Enter_the_Realm-121D3A?style=for-the-badge&logo=vercel&logoColor=F8E7A1)](https://shahidulinit.github.io/)
+[![Email](https://img.shields.io/badge/EMAIL-Send_a_Message-7A1F2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidulinit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahidulinit/)
-[![DEV](https://img.shields.io/badge/DEV-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shahidulinit)
+[![DEV](https://img.shields.io/badge/DEV-Follow-111111?style=for-the-badge&logo=devdotto&logoColor=F8E7A1)](https://dev.to/shahidulinit)
 
 </div>
 
-## `>ABOUT ME`
+## <kbd>PLAYER PROFILE</kbd>
 
-```yml
-name: Shahidul Islam
-role: Competitive Programmer | CSE Undergraduate
-location: Chauddagram, Cumilla, Bangladesh
-education:
-  degree: B.Sc. in Computer Science and Engineering
-  university: Bangladesh Army International University of Science and Technology
-  status: Level 1 Term II
-organization: "@rawrackers"
-focus:
-  - Data Structures & Algorithms
-  - C, C++
-  - Front-end Web Development using AI prompting
-  - Problem solving and hackathons
-currently: "Sharpening implementation speed and algorithmic thinking"
+```yaml
+identity: Shahidul Islam
+class: Algorithmic Problem Solver
+level: CSE Undergraduate / Level 1 Term II
+base: Chauddagram, Cumilla, Bangladesh
+guild: "@rawrackers"
+questline:
+  - Master data structures and algorithms
+  - Build polished, useful web experiences
+  - Compete consistently and improve under pressure
+equipped: C++  •  C  •  Java  •  HTML  •  CSS  •  Git
+status: "Always learning. Always competing."
 ```
 
-I enjoy solving complex programming problems easy way using optimised algorithms, and solving real life problems into working solutions and ideas into interactive web experiences. My interests include competitive programming, CSE fundamentals, and building usefull tools that solve real life problems.
+> I turn complex problems into clear algorithms and practical ideas into interactive web experiences. My work sits at the intersection of competitive programming, CSE fundamentals, and accessible front-end development.
 
 ---
 
-## `>SKILL'S`
+## <kbd>TECH ARSENAL</kbd>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Core Language | Algorithms | Data | Web | Tools |
+|:---:|:---:|:---:|:---:|:---:|
+| ![C](https://skillicons.dev/icons?i=c) | ![C++](https://skillicons.dev/icons?i=cpp) | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) | ![HTML](https://skillicons.dev/icons?i=html) | ![Git](https://skillicons.dev/icons?i=git) |
+| **C** | **C++** | **Java** | **HTML5** | **Git** |
+| ![CSS](https://skillicons.dev/icons?i=css) | ![GitHub](https://skillicons.dev/icons?i=github) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![IntelliJ](https://skillicons.dev/icons?i=idea) |
+| **CSS3** | **GitHub** | **VS Code** | **Android Studio** | **IntelliJ IDEA** |
 
 </div>
-
-| Area | Working knowledge |
-|---|---|
-| Algorithms | Complexity, greedy methods, brute force, |
-| Data structures | Arrays, strings, vector |
-| Competitive programming | C++ implementation, debugging, contest participation |
-| Tools | GCC, Git, GitHub, VS Code, Android Studio, InteliJ IDEA |
-
----
-
-## `>COMPETITIVE PROGRAMMING`
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Snirex-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Snirex)
-[![CodeChef](https://img.shields.io/badge/CodeChef-shahidulinit-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shahidulinit)
-[![AtCoder](https://img.shields.io/badge/AtCoder-shahidulinit-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/shahidulinit)
-
-</div>
-
-- **Primary practice:** Data structures and algorithms
-- **Current goal:** Improve implementation accuracy, speed, and contest consistency
-- **Platforms:** Codeforces, CodeChef, and AtCoder
 
 <details>
-<summary><b>Codeforces activity</b></summary>
+<summary><b>View working knowledge</b></summary>
 
-- Live submissions and contest activity are available on my [Codeforces profile](https://codeforces.com/profile/Snirex).
-- My portfolio also includes a live Codeforces activity panel.
-- Public ratings and submission counts can change; open the profile for the latest verified information.
+| Domain | Working knowledge |
+|---|---|
+| Algorithms | Complexity, greedy methods, brute force, implementation |
+| Data structures | Arrays, strings, vectors |
+| Competitive programming | C++ implementation, debugging, contest strategy |
+| Development tools | GCC, Git, GitHub, VS Code, Android Studio, IntelliJ IDEA |
 
 </details>
 
 ---
 
-## `>PROJECT'S`
+## <kbd>COMPETITIVE ARENA</kbd>
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Anti-Kuddus Protocol**](https://github.com/shahidulinit/Anti-KuddusProtocol) | Playful classroom dashboard with reports, seating, syllabus tools, ledger, and browser-persisted state. Built for the BAIUST CSE Spring Fest 2026 Hackathon. | AI prompting · React · Vite · Tailwind · Recharts |
-| [**Guess The Number**](https://github.com/shahidulinit/GuessTheNumber) | My first Java project: a CLI guessing game with high/low feedback. | Java |
+<div align="center">
 
-### Anti-Kuddus Protocol
+[![Codeforces](https://img.shields.io/badge/Codeforces-Snirex-121D3A?style=for-the-badge&logo=codeforces&logoColor=F8E7A1)](https://codeforces.com/profile/Snirex)
+[![CodeChef](https://img.shields.io/badge/CodeChef-shahidulinit-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shahidulinit)
+[![AtCoder](https://img.shields.io/badge/AtCoder-shahidulinit-1A1A1A?style=for-the-badge&logo=atcoder&logoColor=F8E7A1)](https://atcoder.jp/users/shahidulinit)
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Open_App-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://shahidulinit.github.io/Anti-KuddusProtocol/)
-[![Source](https://img.shields.io/badge/SOURCE-View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahidulinit/Anti-KuddusProtocol)
+</div>
+
+| Mode | Objective |
+|:---:|---|
+| `GRIND` | Strengthen data structures and algorithms |
+| `SPEEDRUN` | Improve implementation accuracy and contest pace |
+| `EXPEDITION` | Practice on Codeforces, CodeChef, and AtCoder |
+| `BOSS FIGHT` | Stay consistent in high-pressure contests |
+
+<details>
+<summary><b>Codeforces live activity</b></summary>
+
+- Live submissions and contest activity are available on [Codeforces](https://codeforces.com/profile/Snirex).
+- Public ratings and submission counts change continuously.
+- The portfolio includes a live Codeforces activity panel for recent progress.
+
+</details>
 
 ---
 
-## `>ACHIEVEMENT'S/MILESTONES`
+## <kbd>QUEST LOG</kbd>
 
-- **Participant - ICPC Dhaka Regional Preliminary 2026** — 4-hour National programming contest
-- **250+ Problem solved** — Across CodeForces, AtCoder, CodeChef
-- **Top 6 - BAIUST CSE Spring Fest 26 Hackathon** — 24-hour university hackathon junior catagory
+| Rank | Quest | Mission reward |
+|:---:|---|---|
+| `S` | [**Anti-Kuddus Protocol**](https://github.com/shahidulinit/Anti-KuddusProtocol) | Classroom operations dashboard with reports, seating, syllabus, ledger, and persistent browser state |
+| `A` | [**Guess The Number**](https://github.com/shahidulinit/GuessTheNumber) | First Java CLI project with high/low guidance and replayable logic |
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/LIVE_QUEST-Enter_App-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://shahidulinit.github.io/Anti-KuddusProtocol/)
+[![Source](https://img.shields.io/badge/SOURCE-Inspect_Code-121D3A?style=for-the-badge&logo=github&logoColor=F8E7A1)](https://github.com/shahidulinit/Anti-KuddusProtocol)
+
+</div>
+
+**Tech stack:** AI prompting · React · Vite · Tailwind CSS · Recharts
+
+---
+
+## <kbd>ACHIEVEMENTS UNLOCKED</kbd>
+
+| Trophy | Milestone |
+|:---:|---|
+| 🏆 | **ICPC Dhaka Regional Preliminary 2026** — National 4-hour programming contest |
+| ⚔️ | **Top 6** — BAIUST CSE Spring Fest 26 Hackathon, junior category |
+| 💎 | **250+ Problems Solved** — Codeforces, AtCoder, and CodeChef |
 
 <details>
-<summary><b>Education</b></summary>
+<summary><b>Education record</b></summary>
 
 **Bachelor of Science — Computer Science and Engineering**  
 Bangladesh Army International University of Science and Technology  
@@ -113,16 +125,16 @@ Current stage: Level 1 Term II
 
 ---
 
-## `>GitHub Activity`
+## <kbd>GITHUB REALM</kbd>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidulinit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&hide_border=true&bg_color=070B18&title_color=D6B64A&icon_color=D6B64A&text_color=F1F5F9&ring_color=D6B64A&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahidulinit&layout=compact&hide_border=true&bg_color=070B18&title_color=D6B64A&text_color=F1F5F9&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=shahidulinit&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
+<img src="https://streak-stats.demolab.com?user=shahidulinit&hide_border=true&background=070B18&border=D6B64A&ring=D6B64A&fire=F8E7A1&currStreakNum=F8E7A1&sideNums=F1F5F9&currStreakLabel=D6B64A&sideLabels=D6B64A&dates=94A3B8" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&hide_border=true&bg_color=070B18&color=D6B64A&line=D6B64A&point=F8E7A1&area=true&area_color=121D3A" width="100%" />
 
 </div>
 
@@ -130,12 +142,12 @@ Current stage: Level 1 Term II
 
 <div align="center">
 
-### `Let's build, learn, and compete.`
+### `The next level awaits.`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shahidulinit&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS)](https://github.com/shahidulinit)
+[![Profile Views](https://komarev.com/ghpvc/?username=shahidulinit&style=for-the-badge&color=D6B64A&label=PROFILE+VISITS)](https://github.com/shahidulinit)
 
-**Open to hackathons, web projects, and learning opportunities.**
+**Open to hackathons, web projects, and ambitious learning opportunities.**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,60:0f766e,100:020617&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8E7A1,55:D6B64A,100:070B18&height=120&section=footer" width="100%" />
