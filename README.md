@@ -13,7 +13,7 @@
 
 </div>
 
-## <kbd>PLAYER PROFILE</kbd>
+## <kbd>ABOUT ME</kbd>
 
 ```yaml
 identity: Shahidul Islam
@@ -54,6 +54,7 @@ status: "Always learning. Always competing."
 | Algorithms | Complexity, greedy methods, brute force, implementation |
 | Data structures | Arrays, strings, vectors |
 | Competitive programming | C++ implementation, debugging, contest strategy |
+| Web development | HTML, CSS, Typescript(AI Assisted) |
 | Development tools | GCC, Git, GitHub, VS Code, Android Studio, IntelliJ IDEA |
 
 </details>
@@ -108,14 +109,14 @@ status: "Always learning. Always competing."
 
 ## <kbd>ACHIEVEMENTS UNLOCKED</kbd>
 
-| Trophy | Milestone |
+| Status | Milestone |
 |:---:|---|
 | 🏆 | **ICPC Dhaka Regional Preliminary 2026** — National 4-hour programming contest |
 | ⚔️ | **Top 6** — BAIUST CSE Spring Fest 26 Hackathon, junior category |
 | 💎 | **250+ Problems Solved** — Codeforces, AtCoder, and CodeChef |
 
 <details>
-<summary><b>Education record</b></summary>
+<summary><b>Education</b></summary>
 
 **Bachelor of Science — Computer Science and Engineering**  
 Bangladesh Army International University of Science and Technology  
