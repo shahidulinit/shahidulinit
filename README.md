@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:333333,100:ffffff&height=14&section=header" width="100%" alt="Black-to-white gradient accent" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,35:4c1d95,70:0891b2,100:22d3ee&height=210&section=header&text=SHAHIDUL%20ISLAM&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=COMPETITIVE%20PROGRAMMER%20%7C%20FIRST-YEAR%20CSE%20STUDENT&descAlignY=61&descSize=15&descColor=CFFAFE" width="100%" alt="Shahidul Islam - Competitive Programmer and First-Year CSE Student" />
 
-# Shahidul Islam
-
-### Competitive Programmer · First-Year CSE Student
-
-Building problem-solving skills through contests and practical projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=560&lines=Competitive+Programming;C%2B%2B+%2B+STL+%2B+Problem+Solving;First-Year+CSE+Student;Learning.+Building.+Competing.)](https://github.com/shahidulinit)
 
 <a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="145" alt="Codeforces profile: Snirex" /></a>
 <a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="145" alt="CodeChef profile: shahidulinit" /></a>
@@ -63,13 +59,13 @@ A small Java command-line hobby project created while exploring Java basics.
 
 ## Competitive programming
 
-Follow my [Codeforces profile](https://codeforces.com/profile/Snirex) for submissions and contest history. The cards below update from my Codeforces profile.
+Follow my [Codeforces profile](https://codeforces.com/profile/Snirex) for submissions and contest history. These live cards show my current profile statistics and rating history.
 
 <div align="center">
 
-[![Codeforces profile statistics](https://codeforces-stats-vlx.vercel.app/api/card?username=Snirex&v2&theme=default)](https://codeforces.com/profile/Snirex)
+[![Codeforces profile statistics](https://codeforces-stats-vlx.vercel.app/api/card?username=Snirex&v2&theme=tokyonight)](https://codeforces.com/profile/Snirex)
 
-[![Codeforces rating history](https://codeforces-stats-vlx.vercel.app/api/graph?username=Snirex&v2&theme=default)](https://codeforces.com/profile/Snirex)
+[![Codeforces rating history](https://codeforces-stats-vlx.vercel.app/api/graph?username=Snirex&v2&theme=tokyonight)](https://codeforces.com/profile/Snirex)
 
 </div>
 
@@ -83,8 +79,8 @@ Bangladesh Army International University of Science and Technology
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&hide_border=true&theme=default" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub profile statistics" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&bg_color=ffffff&color=334155&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
