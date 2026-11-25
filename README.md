@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./assets/portfolio-logo.svg" width="96" alt="Shahidul Islam monogram" />
+
 # Shahidul Islam
 
-### Competitive Programmer | First-Year CSE Student
+### Competitive Programmer · First-Year CSE Student
+
+Building problem-solving skills through contests and practical projects.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Snirex-1f6feb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Snirex)
 [![CodeChef](https://img.shields.io/badge/CodeChef-shahidulinit-5b4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/shahidulinit)
@@ -13,40 +17,58 @@
 
 </div>
 
-## Profile
+---
 
-I am a first-year Computer Science and Engineering student focused primarily on competitive programming. I am comfortable solving problems in C and C++, and use C++ with the STL most often for contests. Alongside programming practice, I work on web projects and continue building my software engineering foundations.
+## About
+
+I am a first-year Computer Science and Engineering student at Bangladesh Army International University of Science and Technology. Competitive programming is my primary focus: I practice problem-solving in C++, use the STL regularly, and continue strengthening my programming fundamentals. I also work on small web projects and am learning how to turn ideas into useful software.
 
 ## Highlights
 
-- **250+ problems solved** across Codeforces, AtCoder, and CodeChef.
-- **Codeforces rating:** 859 (current and peak, as provided).
-- **ICPC Dhaka Regional Preliminary 2026:** participant with **BAIUST_RawRackers**.
-- **BAIUST CSE Spring Fest '26 Hackathon:** Top 6 in the junior category.
+<p>
+<img src="https://img.shields.io/badge/Problems%20solved-250%2B-2563eb?style=flat-square" alt="250 plus problems solved" />
+<img src="https://img.shields.io/badge/ICPC%20Dhaka%20Regional%20Preliminary%202026-Participant-334155?style=flat-square" alt="ICPC Dhaka Regional Preliminary 2026 participant" />
+<img src="https://img.shields.io/badge/BAIUST%20CSE%20Spring%20Fest%20%2726-Top%206%20Junior-0f766e?style=flat-square" alt="Top 6 in junior category at BAIUST CSE Spring Fest 2026" />
+</p>
+
+- **Competitive programming:** 250+ problems solved across Codeforces, AtCoder, and CodeChef.
+- **ICPC:** Participant with **BAIUST_RawRackers** in the ICPC Dhaka Regional Preliminary 2026.
+- **Hackathon:** Top 6 in the junior category at BAIUST CSE Spring Fest '26.
+
+## Featured projects
+
+### [Anti-Kuddus Protocol](https://github.com/shahidulinit/Anti-KuddusProtocol)
+
+A classroom support website with an AI-assisted syllabus summarizer and an organized study guide. I contributed to the syllabus summarizer and managed the Firebase backend and GitHub Pages hosting. Developed with AI assistance.
+
+**Technologies used:** HTML, CSS, Firebase, and GitHub Pages.  
+[View live project](https://shahidulinit.github.io/Anti-KuddusProtocol/)
+
+### [Guess The Number](https://github.com/shahidulinit/GuessTheNumber)
+
+A small Java command-line hobby project created while exploring Java basics.
 
 ## Skills and tools
 
 | Area | Current experience |
 |---|---|
 | Programming | C and C++ — comfortable; C for coursework and C++/STL primarily for contests |
-| Java | Basic syntax; not currently continuing study |
 | Web | HTML — good; CSS — beginner |
 | Backend and version control | Firebase — intermediate; Git and GitHub — intermediate |
+| Java | Basic syntax; further study paused |
 | Hosting | GitHub Pages — used to host and deploy a project |
 
-## Projects
+## Competitive programming
 
-### [Anti-Kuddus Protocol](https://github.com/shahidulinit/Anti-KuddusProtocol)
+Follow my [Codeforces profile](https://codeforces.com/profile/Snirex) for submissions and contest history. The cards below update from my Codeforces profile.
 
-A classroom support website featuring an AI-assisted syllabus summarizer and an organized study guide. I managed the Firebase backend and GitHub Pages hosting, and contributed to the syllabus summarizer. The project was developed with AI assistance.
+<div align="center">
 
-**Technologies used:** HTML, CSS, Firebase, and GitHub Pages.
+[![Codeforces profile statistics](https://codeforces-stats-vlx.vercel.app/api/card?username=Snirex&v2&theme=default)](https://codeforces.com/profile/Snirex)
 
-[Live project](https://shahidulinit.github.io/Anti-KuddusProtocol/)
+[![Codeforces rating history](https://codeforces-stats-vlx.vercel.app/api/graph?username=Snirex&v2&theme=default)](https://codeforces.com/profile/Snirex)
 
-### [Guess The Number](https://github.com/shahidulinit/GuessTheNumber)
-
-A small Java command-line project created as a hobby while exploring Java basics.
+</div>
 
 ## Education
 
@@ -58,7 +80,7 @@ Bangladesh Army International University of Science and Technology
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&hide_border=true&theme=default" alt="GitHub profile statistics for Shahidul Islam" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&hide_border=true&theme=default" alt="GitHub profile statistics" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&bg_color=ffffff&color=334155&line=2563eb&point=1d4ed8&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
