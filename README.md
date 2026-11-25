@@ -27,7 +27,7 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 A classroom support website developed as a **team project for BAIUST CSE Spring Fest '26**, where the team placed **Top 6 in the junior category**. It includes an AI-assisted syllabus summarizer and an organized study guide. My contributions included work on the syllabus summarizer and managing the Firebase backend and GitHub Pages hosting. The project was built with AI assistance.
 
 **Technologies used:** `HTML` · `CSS` · `React` · `TypeScript` · `Tailwind CSS` · `Firebase` · `GitHub Pages`  
-[View the live project](https://shahidulinit.github.io/Anti-KuddusProtocol/)
+[View the live project](https://shahidulinit.github.io/AntiKuddusProtocol/)
 
 ### [Guess The Number](https://github.com/shahidulinit/GuessTheNumber)
 
@@ -47,7 +47,7 @@ A small Java command-line hobby project created while exploring Java basics.
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/%20-101a36?style=flat&logo=github&logoColor=d6b65a" height="24" alt="GitHub icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/0969DA" height="30" width="30" alt="GitHub icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
 <td>• Git: Familiar<br />• GitHub: Fluent<br />• Firebase: Familiar</td>
 </tr>
 </tbody>
