@@ -16,13 +16,9 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 
 ## Highlights
 
-<div align="center">
-
 **ICPC Dhaka Regional Preliminary 2026** · Participant · BAIUST_RawRackers  
 **300+** problems solved across all platforms  
 **Top 6** · BAIUST CSE Spring Fest '26 · Junior category
-
-</div>
 
 ## Featured projects
 
@@ -39,12 +35,25 @@ A small Java command-line hobby project created while exploring Java basics.
 
 ## Skills and tools
 
-| Area | Languages / tools | Experience |
-|---|---|---|
-| Languages | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="28" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++" /> | • C: Fluent<br>• C++: Comfortable |
-| Tools | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="28" alt="Firebase" /> | • Git: Friendly<br>• GitHub: Fluent<br>• Firebase: Friendly |
+<table width="100%">
+<thead>
+<tr><th align="left" width="18%">Area</th><th align="left" width="42%">Languages / tools</th><th align="left" width="40%">Experience</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Languages</strong></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></td>
+<td>• C: Fluent<br />• C++: Comfortable</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
+<td>• Git: Familiar<br />• GitHub: Fluent<br />• Firebase: Familiar</td>
+</tr>
+</tbody>
+</table>
 
-**Also learning:** Java (basic syntax; further study paused), HTML and CSS (basics).
+**Also learning:** Python basics (paused) · Java basics (paused) · HTML (intermediate) · CSS (basic).
 
 ## Education
 
