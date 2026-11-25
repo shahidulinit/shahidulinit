@@ -16,9 +16,9 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 
 ## Highlights
 
-**ICPC Dhaka Regional Preliminary 2026** · Participant · BAIUST_RawRackers  
-**300+** problems solved across all platforms  
-**Top 6** · BAIUST CSE Spring Fest '26 · Junior category
+- **ICPC Dhaka Regional Preliminary 2026** · Participant · BAIUST_RawRackers
+- **300+ problems solved** across all platforms
+- **Top 6** · BAIUST CSE Spring Fest '26 · Junior category
 
 ## Featured projects
 
@@ -37,18 +37,18 @@ A small Java command-line hobby project created while exploring Java basics.
 
 <table width="100%">
 <thead>
-<tr><th align="left" width="18%">Area</th><th align="left" width="42%">Languages / tools</th><th align="left" width="40%">Experience</th></tr>
+<tr><th align="left" width="16%">Area</th><th align="left" width="54%">Languages / tools</th><th align="left" width="30%">Experience</th></tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Languages</strong></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" alt="C" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" /></td>
-<td>• C: Fluent<br />• C++: Comfortable</td>
+<td>• C : Fluent<br />• C++ : Comfortable</td>
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/0969DA" height="30" width="30" alt="GitHub icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
-<td>• Git: Familiar<br />• GitHub: Fluent<br />• Firebase: Familiar</td>
+<td>• Git : Familiar<br />• GitHub : Fluent<br />• Firebase : Familiar</td>
 </tr>
 </tbody>
 </table>
