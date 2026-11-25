@@ -8,13 +8,12 @@
 
 Building problem-solving skills through contests and practical projects.
 
-<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="190" alt="Codeforces profile: Snirex" /></a>
-<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="190" alt="CodeChef profile: shahidulinit" /></a>
-<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="190" alt="AtCoder profile: shahidulinit" /></a>
-<br />
-<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="190" alt="Email Shahidul Islam" /></a>
-<a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="190" alt="LinkedIn profile" /></a>
-<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="190" alt="DEV profile: shahidulinit" /></a>
+<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="145" alt="Codeforces profile: Snirex" /></a>
+<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="145" alt="CodeChef profile: shahidulinit" /></a>
+<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="145" alt="AtCoder profile: shahidulinit" /></a>
+<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="145" alt="Email Shahidul Islam" /></a>
+<a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="145" alt="LinkedIn profile" /></a>
+<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="145" alt="DEV profile: shahidulinit" /></a>
 
 </div>
 
@@ -26,10 +25,10 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 
 ## Highlights
 
-<p>
-<img src="https://img.shields.io/badge/Problems%20solved-250%2B-111111?style=for-the-badge" alt="250 plus problems solved" />
-<img src="https://img.shields.io/badge/ICPC%20Dhaka%20Regional%20Preliminary%202026-Participant-222222?style=for-the-badge" alt="ICPC Dhaka Regional Preliminary 2026 participant" />
-<img src="https://img.shields.io/badge/BAIUST%20CSE%20Spring%20Fest%20%2726-Top%206%20Junior-111111?style=for-the-badge" alt="Top 6 in junior category at BAIUST CSE Spring Fest 2026" />
+<p align="center">
+<img src="./assets/button-problems.svg" width="205" alt="250 plus problems solved across three coding platforms" />
+<img src="./assets/button-icpc.svg" width="230" alt="ICPC Dhaka Regional Preliminary 2026 participant with BAIUST RawRackers" />
+<img src="./assets/button-hackathon.svg" width="230" alt="Top 6 in the junior category at BAIUST CSE Spring Fest 2026" />
 </p>
 
 - **Competitive programming:** 250+ problems solved across Codeforces, AtCoder, and CodeChef.
@@ -42,8 +41,11 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 
 A classroom support website developed as a **team project for BAIUST CSE Spring Fest '26**. Our team placed in the **Top 6** in the junior category. The website includes an AI-assisted syllabus summarizer and an organized study guide. I contributed to the syllabus summarizer and managed the Firebase backend and GitHub Pages hosting. Developed with AI assistance.
 
-**Technologies used:** HTML, CSS, Firebase, and GitHub Pages.  
-[View live project](https://shahidulinit.github.io/Anti-KuddusProtocol/)
+**Technologies used:** HTML, CSS, Firebase, and GitHub Pages.
+
+<p align="center">
+<a href="https://shahidulinit.github.io/Anti-KuddusProtocol/"><img src="./assets/button-live-project.svg" width="210" alt="Open the Anti-Kuddus Protocol live project" /></a>
+</p>
 
 ### [Guess The Number](https://github.com/shahidulinit/GuessTheNumber)
 
