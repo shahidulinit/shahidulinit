@@ -27,7 +27,7 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 A classroom support website developed as a **team project for BAIUST CSE Spring Fest '26**, where the team placed **Top 6 in the junior category**. It includes an AI-assisted syllabus summarizer and an organized study guide. My contributions included work on the syllabus summarizer and managing the Firebase backend and GitHub Pages hosting. The project was built with AI assistance.
 
 **Technologies used:** `HTML` · `CSS` · `React` · `TypeScript` · `Tailwind CSS` · `Firebase` · `GitHub Pages`  
-[View the live project](https://shahidulinit.github.io/Anti-KuddusProtocol/)
+[View the live project](https://shahidulinit.github.io/AntiKuddusProtocol/)
 
 ### [Guess The Number](https://github.com/shahidulinit/GuessTheNumber)
 
@@ -37,7 +37,7 @@ A small Java command-line hobby project created while exploring Java basics.
 
 <table width="100%">
 <thead>
-<tr><th align="left" width="16%">Area</th><th align="left" width="54%">Languages / tools</th><th align="left" width="30%">Experience</th></tr>
+<tr><th align="left" width="10%">Area</th><th align="left" width="35%">Languages / tools</th><th align="left" width="55%">Experience</th></tr>
 </thead>
 <tbody>
 <tr>
