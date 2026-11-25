@@ -18,7 +18,7 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 
 <div align="center">
 
-**ICPC DHaka Regional Preliminary 2026** · Participant · BAIUST_RawRackers  
+**ICPC Dhaka Regional Preliminary 2026** · Participant · BAIUST_RawRackers  
 **300+** problems solved across all platforms  
 **Top 6** · BAIUST CSE Spring Fest '26 · Junior category
 
@@ -41,11 +41,10 @@ A small Java command-line hobby project created while exploring Java basics.
 
 | Area | Languages / tools | Experience |
 |---|---|---|
-| Languages | <img src="https://skillicons.dev/icons?i=c,cpp" height="28" alt="C and C++" /> | • C: Fluent<br>• C++: Comfortable |
-| Tools | <img src="https://skillicons.dev/icons?i=git,github,firebase" height="28" alt="Git, GitHub, and Firebase" /> | • Git: Friendly<br>• GitHub: Fluent<br>• Firebase: Friendly |
+| Languages | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="28" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++" /> | • C: Fluent<br>• C++: Comfortable |
+| Tools | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="28" alt="Firebase" /> | • Git: Friendly<br>• GitHub: Fluent<br>• Firebase: Friendly |
 
-Java: Basic syntax; paused further study.  
-HTML and CSS: Basic knowledge.
+**Also learning:** Java (basic syntax; further study paused), HTML and CSS (basics).
 
 ## Education
 
@@ -58,14 +57,12 @@ Bangladesh Army International University of Science and Technology
 <table align="center">
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=shahidulinit&show_icons=true&hide_border=true&bg_color=101a36&title_color=d6b65a&icon_color=ead18a&text_color=e7eaf0" alt="GitHub profile statistics" /></td>
-<td><img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Snirex&v2&theme=nord_dark" alt="Live Codeforces profile statistics" /></td>
+<td><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Snirex&bg_color=101a36&title_color=d6b65a&text_color=e7eaf0&icon_color=ead18a&border_color=8f6b24" alt="Live Codeforces profile statistics" /></td>
 </tr>
 </table>
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&bg_color=101a36&color=e7eaf0&line=d6b65a&point=fff4c2&area=true&area_color=1b2c57&hide_border=true" alt="GitHub contribution activity graph" />
-
-[![Codeforces rating history](https://codeforces-stats-vlx.vercel.app/api/graph?username=Snirex&v2&theme=nord_dark)](https://codeforces.com/profile/Snirex)
 
 </div>
