@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=D6B65A&center=true&vCenter=true&width=560&lines=Competitive+Programming;C%2B%2B+%2B+STL+%2B+Problem+Solving;First-Year+CSE+Student;Learning.+Building.+Competing.)](https://github.com/shahidulinit)
 
-<a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="112" alt="LinkedIn - Connect" /></a><a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="112" alt="DEV - Blogs" /></a><a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="112" alt="Codeforces - Profile" /></a><a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="112" alt="AtCoder - Profile" /></a><a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="112" alt="CodeChef - Profile" /></a><a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="112" alt="Gmail - Contact me" /></a>
+<a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="112" alt="LinkedIn - Connect" /></a>&nbsp;<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="112" alt="DEV - Blogs" /></a>&nbsp;<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="112" alt="Codeforces - Profile" /></a>&nbsp;<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="112" alt="AtCoder - Profile" /></a>&nbsp;<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="112" alt="CodeChef - Profile" /></a>&nbsp;<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="112" alt="Gmail - Contact me" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@ I am a first-year Computer Science and Engineering student at Bangladesh Army In
 A classroom support website developed as a **team project for BAIUST CSE Spring Fest '26**, where the team placed **Top 6 in the junior category**. It includes an AI-assisted syllabus summarizer and an organized study guide. My contributions included work on the syllabus summarizer and managing the Firebase backend and GitHub Pages hosting. The project was built with AI assistance.
 
 **Technologies used:** `HTML` · `CSS` · `React` · `TypeScript` · `Tailwind CSS` · `Firebase` · `GitHub Pages`  
-[View the live project](https://shahidulinit.github.io/AntiKuddusProtocol/)
+[View the live project](https://shahidulinit.github.io/Anti-KuddusProtocol/)
 
 ### [Guess The Number](https://github.com/shahidulinit/GuessTheNumber)
 
@@ -37,7 +37,7 @@ A small Java command-line hobby project created while exploring Java basics.
 
 <table width="100%">
 <thead>
-<tr><th align="left" width="15%">Area</th><th align="left" width="35%">Languages / tools</th><th align="left" width="50%">Experience</th></tr>
+<tr><th align="left" width="16%">Area</th><th align="left" width="54%">Languages / tools</th><th align="left" width="30%">Experience</th></tr>
 </thead>
 <tbody>
 <tr>
@@ -47,7 +47,7 @@ A small Java command-line hobby project created while exploring Java basics.
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/0969DA" height="30" width="30" alt="GitHub icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
 <td>• Git : Familiar<br />• GitHub : Fluent<br />• Firebase : Familiar</td>
 </tr>
 </tbody>
