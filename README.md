@@ -47,7 +47,7 @@ A small Java command-line hobby project created while exploring Java basics.
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="Git" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="24" alt="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" /></td>
 <td>• Git: Familiar<br />• GitHub: Fluent<br />• Firebase: Familiar</td>
 </tr>
 </tbody>
