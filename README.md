@@ -37,7 +37,7 @@ A small Java command-line hobby project created while exploring Java basics.
 
 <table width="100%">
 <thead>
-<tr><th align="left" width="16%">Area</th><th align="left" width="54%">Languages / tools</th><th align="left" width="30%">Experience</th></tr>
+<tr><th align="left" width="15%">Area</th><th align="left" width="35%">Languages / tools</th><th align="left" width="50%">Experience</th></tr>
 </thead>
 <tbody>
 <tr>
