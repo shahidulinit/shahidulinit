@@ -8,12 +8,13 @@
 
 Building problem-solving skills through contests and practical projects.
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Snirex-111111?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000)](https://codeforces.com/profile/Snirex)
-[![CodeChef](https://img.shields.io/badge/CodeChef-shahidulinit-222222?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000)](https://www.codechef.com/users/shahidulinit)
-[![AtCoder](https://img.shields.io/badge/AtCoder-shahidulinit-111111?style=for-the-badge&logo=atcoder&logoColor=white&labelColor=000000)](https://atcoder.jp/users/shahidulinit)
-[![Email](https://img.shields.io/badge/Email-Contact-222222?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shahidulinit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/shahidulinit/)
-[![DEV](https://img.shields.io/badge/DEV-Profile-222222?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000)](https://dev.to/shahidulinit)
+<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="190" alt="Codeforces profile: Snirex" /></a>
+<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="190" alt="CodeChef profile: shahidulinit" /></a>
+<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="190" alt="AtCoder profile: shahidulinit" /></a>
+<br />
+<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="190" alt="Email Shahidul Islam" /></a>
+<a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="190" alt="LinkedIn profile" /></a>
+<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="190" alt="DEV profile: shahidulinit" /></a>
 
 </div>
 
