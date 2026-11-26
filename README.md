@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101a36,35:1b2c57,70:8f6b24,100:d6b65a&height=205&section=header&text=SHAHIDUL%20ISLAM&fontSize=44&fontColor=FFF4C2&animation=fadeIn&fontAlignY=38&desc=COMPETITIVE%20PROGRAMMER%20%7C%20FIRST-YEAR%20CSE%20STUDENT&descAlignY=61&descSize=15&descColor=E3D8B5" width="100%" alt="Shahidul Islam - Competitive Programmer and First-Year CSE Student" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=D6B65A&center=true&vCenter=true&width=560&lines=Competitive+Programming;C%2B%2B+%2B+STL+%2B+Problem+Solving;First-Year+CSE+Student;Learning.+Building.+Competing.)](https://github.com/shahidulinit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=D6B65A&center=true&vCenter=true&width=560&lines=Competitive+Programming;+First-Year+CSE+Student;Learning.+Building.+Competing.)](https://github.com/shahidulinit)
 
 <a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="112" alt="LinkedIn - Connect" /></a>&nbsp;<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="112" alt="DEV - Blogs" /></a>&nbsp;<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="112" alt="Codeforces - Profile" /></a>&nbsp;<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="112" alt="AtCoder - Profile" /></a>&nbsp;<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="112" alt="CodeChef - Profile" /></a>&nbsp;<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="112" alt="Gmail - Contact me" /></a>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-I am a first-year Computer Science and Engineering student at Bangladesh Army International University of Science and Technology. Competitive programming is my primary focus: I solve problems in C++, use the STL regularly, and continue strengthening my programming fundamentals. I also work on web projects and am building my software engineering experience.
+I am a first-year Computer Science student at Bangladesh Army International University of Science and Technology. Competitive programming is my primary focus: I solve problems in C++ regularly, and continue strengthening my programming fundamentals. I also work on web projects and am building my software engineering experience.
 
 ## Highlights
 
@@ -53,7 +53,7 @@ A small Java command-line hobby project created while exploring Java basics.
 </tbody>
 </table>
 
-**Also learning:** Python basics (paused) · Java basics (paused) · HTML (intermediate) · CSS (basic).
+**Other's :** Python basics (paused) · Java basics (paused) · HTML (intermediate) · CSS (basic).
 
 ## Education
 
