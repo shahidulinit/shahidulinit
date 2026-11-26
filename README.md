@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=D6B65A&center=true&vCenter=true&width=560&lines=Competitive+Programming;+First-Year+CSE+Student;Learning.+Building.+Competing.)](https://github.com/shahidulinit)
 
+![Profile views](https://komarev.com/ghpvc/?username=shahidulinit&color=d6b65a&style=flat-square&label=Profile%20views)
+
 <a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="112" alt="LinkedIn - Connect" /></a>&nbsp;<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="112" alt="DEV - Blogs" /></a>&nbsp;<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="112" alt="Codeforces - Profile" /></a>&nbsp;<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="112" alt="AtCoder - Profile" /></a>&nbsp;<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="112" alt="CodeChef - Profile" /></a>&nbsp;<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="112" alt="Gmail - Contact me" /></a>
 
 </div>
