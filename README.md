@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=D6B65A&center=true&vCenter=true&width=560&lines=Competitive+Programming;+First-Year+CSE+Student;Learning.+Building.+Competing.)](https://github.com/shahidulinit)
 
-![Profile views](https://komarev.com/ghpvc/?username=shahidulinit&color=d6b65a&style=flat-square&label=Profile%20views)
-
 <a href="https://www.linkedin.com/in/shahidulinit/"><img src="./assets/button-linkedin.svg" width="112" alt="LinkedIn - Connect" /></a>&nbsp;<a href="https://dev.to/shahidulinit"><img src="./assets/button-dev.svg" width="112" alt="DEV - Blogs" /></a>&nbsp;<a href="https://codeforces.com/profile/Snirex"><img src="./assets/button-codeforces.svg" width="112" alt="Codeforces - Profile" /></a>&nbsp;<a href="https://atcoder.jp/users/shahidulinit"><img src="./assets/button-atcoder.svg" width="112" alt="AtCoder - Profile" /></a>&nbsp;<a href="https://www.codechef.com/users/shahidulinit"><img src="./assets/button-codechef.svg" width="112" alt="CodeChef - Profile" /></a>&nbsp;<a href="mailto:shahidulinit@gmail.com"><img src="./assets/button-email.svg" width="112" alt="Gmail - Contact me" /></a>
 
 </div>
@@ -24,7 +22,7 @@ I am a first-year Computer Science student at Bangladesh Army International Univ
 
 ## Featured projects
 
-### [Anti-Kuddus Protocol](https://github.com/shahidulinit/Anti-KuddusProtocol)
+### [Anti-Kuddus Protocol](https://github.com/shahidulinit/AntiKuddusProtocol)
 
 A classroom support website developed as a **team project for BAIUST CSE Spring Fest '26**, where the team placed **Top 6 in the junior category**. It includes an AI-assisted syllabus summarizer and an organized study guide. My contributions included work on the syllabus summarizer and managing the Firebase backend and GitHub Pages hosting. The project was built with AI assistance.
 
@@ -75,5 +73,7 @@ Bangladesh Army International University of Science and Technology
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahidulinit&bg_color=101a36&color=e7eaf0&line=d6b65a&point=fff4c2&area=true&area_color=1b2c57&hide_border=true" alt="GitHub contribution activity graph" />
+
+![Profile views](https://komarev.com/ghpvc/?username=shahidulinit&color=d6b65a&style=flat-square&label=Profile%20views)
 
 </div>
